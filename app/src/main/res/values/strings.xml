@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RedBlueFragments_RandomNumber</string>
+    <string name="hello_blue_fragment">This is the blue fragment</string>
+    <string name="send_a_random_number_to_the_blue_fragment">Send a random number to the blue fragment</string>
+    <string name="choice_a_resource">Palestinian</string>
+    <string name="choice_b_resource">Israeli</string>
+    <string name="count_resource">count</string>
+    <string name="reset_resource">Reset</string>
+    <string name="red">Survey</string>
+    <string name="blue">Results</string>
+    <string name="question">Who do you support in the conflict, if you had to choose: the Palestinian side or the Israeli side?</string>
+</resources>
