@@ -1,8 +1,9 @@
-package com.example.redbluefragments
+package com.example.surveyWithFragments
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.example.redbluefragments.R
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {

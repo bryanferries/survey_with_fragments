@@ -1,4 +1,4 @@
-package com.example.redbluefragments
+package com.example.surveyWithFragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -8,6 +8,7 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.TextView
 import androidx.lifecycle.ViewModelProvider
+import com.example.redbluefragments.R
 
 class ResultsFragment : Fragment() {
 

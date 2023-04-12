@@ -4,13 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="com.example.surveyWithFragments.MainActivity">
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:name="com.example.redbluefragments.SurveyFragment"
+        android:name="com.example.surveyWithFragments.SurveyFragment"
         android:tag="SURVEY"
         app:layout_constraintBottom_toBottomOf="@id/bottom_navigation_view"
         app:layout_constraintEnd_toEndOf="parent"

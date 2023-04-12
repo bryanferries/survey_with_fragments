@@ -1,4 +1,4 @@
-package com.example.redbluefragments
+package com.example.surveyWithFragments
 
 import androidx.lifecycle.ViewModel
 
